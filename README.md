@@ -13,7 +13,6 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about -->
 - 📫 How to reach me: nishalpay@gmail.com
 - 😄 Pronouns: It's a 'He' since birth!
-- ⚡ Fun fact: The Apollo 11 guidance computer, which helped land the first humans on the Moon in 1969, had more than a 1000 times less processing power than a modern day smartphone.
 
 
 
