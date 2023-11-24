@@ -13,6 +13,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about -->
 - 📫 How to reach me: nishalpay@gmail.com
 - 😄 Pronouns: It's a 'He' since birth!
+- Fun Fact : I'll marry in about 2 years to another git hub user
 
 
 
