@@ -6,8 +6,8 @@ Myself Nishal , a rookie developer obsessed with Computers and their Structures 
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on HTML , JAVASCRIPT , CSS and PHP
-- 🌱 I’m currently learning PHP
+- 🔭 I’m currently working on python
+- 🌱 I’m currently learning advanced python
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about -->
