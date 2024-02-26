@@ -6,7 +6,7 @@ Myself Nishal
 
 Here are some ideas to get you started:-->
 
-- 🔭 currently figuring out how to handle 3 programming language in a sem
+- 🔭 And my future revolves around 1s and 0s
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about -->
